@@ -1,4 +1,10 @@
 <?php
+// Copyright © 2000 Dunbar Aitkens
+// This program is licensed under the GPL version 3 or later.
+// The associated card images and text are not made available
+// under the license.
+// Please see the file COPYING in the source
+// distribution of this software for license terms.
  //recordFace.php
 
 $cube = $_REQUEST['cube'];
